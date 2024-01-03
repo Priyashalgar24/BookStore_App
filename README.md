@@ -11,7 +11,7 @@
  ##   [Live App Demo](https://akshatbookstore.netlify.app/)
  
  
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
+ ![Alt text](["https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page"])
 
 # Tools Used
 
@@ -48,22 +48,20 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Priya Shalgar </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
+  <a href="https://www.github.com/Priyashalgar24">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
+  <a href="https://www.linkedin.com/in/priya-shalgar">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
   </a>
-
-  <a href="https://www.instagram.com/akshatxjalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
+  
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
+    <a href="mailto:shalgar.priya24@gmail.com">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
   </a>
 
