@@ -2,16 +2,17 @@
 
 <h1 align="center">BOOK Ecommerce STORE USING REACTJS </h1>
 
+## DEPLOYMENT LINK- ("https://book-store-ly4u4a0e2-priya-shalgars-projects.vercel.app")
+
 
 # BOOK Shop Description
     Book Shop is an online React web application where the customer can purchase books online.
     Through this book store the users can search for a book by its title and
     later can add to the shopping cart and finally purchase using credit card transaction.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
  
  
- ![Alt text](["https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page"])
+ ![Alt text]([("https://github.com/Priyashalgar24/BookStore_App")])
 
 # Tools Used
 
@@ -53,7 +54,7 @@ See the section about [deployment](#deployment) for more information.
   <p align="center"> 
 
   <a href="https://www.github.com/Priyashalgar24">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
+    <img src="[https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg])" width="30" height="30" hspace="20">
   </a>
 
   <a href="https://www.linkedin.com/in/priya-shalgar">
